@@ -18,5 +18,4 @@ Author: Poornima
 
 8. Adding Status so that user can play train games
 
-9. Adding group feature to include 300 users
-
+9. Adding group feature to include 400 users
